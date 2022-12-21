@@ -24,11 +24,11 @@ export default function Home() {
         <title>Optimize IAP prices per country | IAPPY</title>
         <meta name="title" content="Optimize IAP prices per country | IAPPY" />
         <meta name="description" content="IAPPY optimizes the in-app purchase prices per country, resulting in more revenue."/>
-        <meta name="keywords" content="in-app purchase optimizationcountry-specific pricingapp pricing strategycurrency exchange ratedynamic pricingpurchasing powerpurchasing power parityapp analyticspromotions and discountsrevenue optimizationmarket research"/>
+        <meta name="keywords" content="in-app purchase optimization country-specific pricing global app pricing strategy currency exchange rate dynamic pricing purchasing power purchasing power parity app analytics promotions and discounts revenue optimization market research"/>
         <meta property="og:title" content="Optimize in-app purchase (IAP) prices per country | IAPPY" />
         <meta property="og:description" content="IAPPY optimizes the in-app purchase prices per country, resulting in more revenue." />
         <meta name="robots" content="index, follow"/>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="language" content="English" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
