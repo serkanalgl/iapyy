@@ -11,7 +11,7 @@ export default function Footer() {
                 textAlign: "center"
                 }}
             >
-                <Link isExternal color="text" css={{margin: '0 auto;'}} href="https://github.com/serkanalgl">© IAPPY | Contact me</Link>
+                <Link isExternal color="text" css={{margin: '0 auto;'}} href="https://github.com/serkanalgl">© IAPYY | Contact me</Link>
             </Text>
             
             </Container>
