@@ -2,7 +2,7 @@ import csv from 'csvtojson';
 import _ from 'lodash';
 
 async function fetchData(){
-    const response = await fetch("https://raw.githubusercontent.com/TheEconomist/big-mac-data/master/output-data/big-mac-adjusted-index.csv");
+    const response = await fetch("https://raw.githubusercontent.com/TheEconomist/big-mac-data/january-2023-update/output-data/big-mac-adjusted-index.csv");
     return await response.text();
 }
 
